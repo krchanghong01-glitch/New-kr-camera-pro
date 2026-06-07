@@ -1,0 +1,6 @@
+{
+  "name": "KR Camera Pro",
+  "description": "Professional Camera with manual controls, Leica aesthetics, custom grid overlays, dual capture (high resolution photos and high definition videos), flash/torch controls, switch lens, self-timer, and gallery previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
